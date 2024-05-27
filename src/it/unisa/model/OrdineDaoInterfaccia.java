@@ -13,3 +13,6 @@ public interface OrdineDaoInterfaccia {
 	
 	public ArrayList<OrdineBean> doRetrieveAll(String order) throws SQLException;
 }
+
+
+//aa
